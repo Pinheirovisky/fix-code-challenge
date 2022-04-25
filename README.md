@@ -1,6 +1,6 @@
 # fix-code-challenge
 
-Aplicação desenvolvida em NodeJs. Objetivo é se aprofundar mais nas contrução de API's.
+Aplicação desenvolvida em NodeJs. Objetivo é se aprofundar mais nas contruções de API's.
 
 ## Rodando a Aplicação
 
